@@ -1,7 +1,10 @@
 ﻿# TASNIM ALI RESUME
 (225) 200-7900 | Baton Rouge, LA | tasnim.ali@listedb.com | linkedin.com/in/rajonali1
 
-An entry-level IT support professional seeking a role in Information Technology. With a background in web and software development, you will find that I am very versatile and adaptable to this role's needs. 
+Entry-level cybersecurity enthusiast with a passion for IT support and a background in software and web development.
+
+Equipped with a strong understanding of information systems and adaptive skillsets, you will find that I am very versatile to this role's needs.
+
 
   
 # WORK & RELEVANT EXPERIENCE
@@ -32,13 +35,13 @@ An entry-level IT support professional seeking a role in Information Technology.
 
  [April 2021 - September 2021]
 
-IT support program that covers troubleshooting, customer service, networking, operating systems, system administration, and security, and includes hands-on lab
+-   IT support program that covers troubleshooting, customer service, networking, operating systems, system administration, and security, and includes hands-on lab
 
 ## Bachelors of Computer Science 
 **Southern University A&M | Baton Rouge, LA****
  [2021-Present]
 
-IT support program that covers troubleshooting, customer service, networking, operating systems, system administration, and security, and includes hands-on labs.
+-   IT support program that covers troubleshooting, customer service, networking, operating systems, system administration, and security, and includes hands-on labs.
 
 
 
@@ -76,6 +79,7 @@ IT support program that covers troubleshooting, customer service, networking, op
 -   Kali Linux + Metasploit Framework,
 -   MVC/REST/Web Hooks,
 -   Heroku/Netlify/Firebase 
+-   Customer Service
  
 
 
