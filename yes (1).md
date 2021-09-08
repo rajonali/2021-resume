@@ -6,20 +6,19 @@ An entry-level IT support professional seeking a role in Information Technology.
   
 # WORK & RELEVANT EXPERIENCE
 
-## Frontend React Developer (Remote)
+## Frontend React Developer Apprentice (Remote) (Unpaid)
 **Listed-B | Queens, NY****
  [November 2017]
 
--   Translated necessary requirements into responsive designs utilizing NextJS framework.
--   Administered operational role in maintaining technical content.
--   Worked as member of project team to collect and develop content.
--   Ensured high quality deliverables by following defined processes.
+-   Utilized NextJS + Redux to create an efficient server side rendered solution with state management.
+
+-   The startup is in its very early stages thus my role has been more than just development but also being involved with the designing process. This opportunity has given me an invaluable perspective on how a startup scales while being able to use industry standard technologies and collaborating with industry experienced developers. 
 
 ## Coding Instructor
 **Futures Fund | Baton Rouge, LA****
  [November 2017]
 
--   Teaching and showing the leaders of tomorrow the amazing potential and opportunities found in web development. Conduct a classroom environment with 1-on-1 focus when needed. Simulate a collaborative environment with task management systems, communication through Slack, using basic VCS and GitHub, creating clone projects, and developing personal portfolios.
+-   Teaching and showing the leaders of tomorrow the amazing potential and opportunities found in software and web development. Conduct a classroom environment with 1-on-1 tutoring. Simulate a collaborative environment with task management systems, communication through Slack, using basic VCS and GitHub, creating clone projects, and developing personal portfolios.
 
 ## Phone Repair Technician
 **Express Mobile Solutions | Baton Rouge, LA****
@@ -39,7 +38,7 @@ IT support program that covers troubleshooting, customer service, networking, op
 **Southern University A&M | Baton Rouge, LA****
  [November 2017]
 
-IT support program that covers troubleshooting, customer service, networking, operating systems, system administration, and security, and includes hands-on lab
+IT support program that covers troubleshooting, customer service, networking, operating systems, system administration, and security, and includes hands-on labs.
 
 
 
@@ -49,19 +48,19 @@ IT support program that covers troubleshooting, customer service, networking, op
 **Parkview Baptist | Baton Rouge, LA****
  [November 2017]
 
--   Used a schoolwide ticketing software to troubleshoot and diagnose technical problems for the whole school. This included calibrating projectors, reimaging laptops, making ethernet cables, installing and configuring security cameras, and creating new users in the Active Directory for new staff and students.          
+-   Used a schoolwide ticketing software to troubleshoot and diagnose technical problems for the whole school. This included calibrating projectors, reimaging laptops, making ethernet cables, installing and configuring enterprise printers.          
 
 ## Summer Ambassador   
 **Our Lady of the Lake | Baton Rouge, LA****
  [August 2017]
 
- - Went around different units of the hospital to observe and assist healthcare professionals such as doctors, nurses, and technicians do their job. Completed tasks such as making patients' beds, cleaning cafeteria tables, and deliver equipment to designated room.  
+-   Went around different units of the hospital to observe and assist healthcare professionals such as doctors, nurses, and technicians do their job. Completed tasks such as making patients' beds, cleaning cafeteria tables, and deliver equipment to designated room.  
 
 ## Data Entry  
 **East Baton Rouge Parish Library | Baton Rouge, LA****
  [November 2017]
 
-Integrated new electronic cataloging system by sorting through all the books and inserting them into the new database through the new CMS.
+-   Integrated new electronic cataloging system by sorting through all the books and inserting them into the new database through the new CMS.
 
 
 # TECHNICAL & BUSINESS PROFICIENCIES
@@ -83,13 +82,16 @@ Heroku/Netlify/Firebase
 
 # PROJECTS
 
-[Gas Station Inventory Management App](https://rajonali.github.io/online-cv/#) -  A MongoDB + Express + React + Node stack built inventory management app to track products by their UPC.
+[Python IRC Botnet](https://github.com/rajonali/PIRCBOTNET) -  A basic C&C server using IRC channels to deploy tasks.
 
-[Apple Pay Finder](https://rajonali.github.io/online-cv/#) -  MERN stack user curated database of Apple Pay accepting establishments.
+[Inventory Management App](https://github.com/rajonali/CRUD-Inventory-Mgmt-Tool) -  A MongoDB + Express + React + Node stack built inventory management app to track products by their UPC.
 
-[Your Media Company](https://rajonali.github.io/online-cv/#) -  Concept React website for a digital agency.
+[Apple Pay Finder](https://github.com/rajonali/applepayfinder) -  MERN stack user curated database of Apple Pay accepting establishments.
 
-[Kenny Breland Photography Portfolio](https://rajonali.github.io/online-cv/#) -  A PoC responsive React personal photography portfolio.
+[Your Media Company](https://github.com/rajonali/yourmediacompany) -  React digital agency concept.
+
+[Kenny Breland Photography Portfolio](https://rajonali.github.io/online-cv/#) -  React personal photography portfolio concept.
+
 
 # PUBLICATIONS
 
@@ -100,5 +102,5 @@ Heroku/Netlify/Firebase
 
 # ABOUT-ME
 
-I enjoy cooking/grilling new recipes, going out with friends, doing DIY projects, tending to my hydroponic farm, and parading my cat with the utmost affection an owner can give. Currently in pursuit of a career in cyber security.
+I enjoy cooking/grilling new recipes, going out with friends, going to the gym, doing DIY projects, tending to my hydroponic farm, and parading my cat with affection. 
 
