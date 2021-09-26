@@ -69,8 +69,8 @@ Equipped with a strong understanding of information systems and adaptive skillse
 # TECHNICAL & BUSINESS PROFICIENCIES
 -   Git, GitHub 
 -   Linux/Bash, Powershell, 
--   Java, Python, Ruby
--   JavaScript(ES6 & ES7), NodeJS, ReactJS, ExpressJS 
+-   Java, Python, Ruby, JavaScript(ES6 & ES7)
+-   Django, NodeJS, ReactJS, ExpressJS 
 -   MySQL/Postgresql/MongoDB,
 -   Docker/VMWare/VirtualBox,
 -   Win32Api, Selenium Browser Automation,
